@@ -2,7 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://platinfra.github.io/</loc>
-         <lastmod>2024-01-01</lastmod>
+         <lastmod>2024-01-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://platinfra.github.io/CONTRIBUTING/</loc>
+         <lastmod>2024-01-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://platinfra.github.io/user_guide/how_platinfra_works/</loc>
+         <lastmod>2024-01-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
